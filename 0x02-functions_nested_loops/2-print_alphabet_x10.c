@@ -1,13 +1,19 @@
 #include "holberton.h"
 
 /**
- * add -  adds two integers and returns the result.
- * @a: first int.
- * @b: second int.
+ * print_alphabet_x10 - prints 10 times the alphabet.
  *
- * Return: a+b.
+ *
  */
-int add(int a, int b)
+void print_alphabet_x10(void)
 {
-	return (a + b);
+	char c;
+	int i;
+
+	for (i = 1; i <= 10; i++)
+	{
+		for (c = 'a' ; c <= 'z' ; c++)
+			_putchar(c);
+		_putchar('\n');
+	}
 }
