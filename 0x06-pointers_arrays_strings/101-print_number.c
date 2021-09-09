@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
  *powB - raises the number base to power power
@@ -95,7 +95,7 @@ void printnchar(int n)
  * @n: integer to be printed
  * Return: 0
  */
-void print_number(int n);
+void print_number(int n)
 {
 
 	printnchar(n);
