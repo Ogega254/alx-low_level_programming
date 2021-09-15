@@ -1,5 +1,4 @@
 #include "main.h"
-#include "holberton.c"
 
 /**
  * wildcmp - compare two strings with "wildcard expansion" capabilities
