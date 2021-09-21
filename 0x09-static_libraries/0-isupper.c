@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  *_isupper - return for uppercase
  *@c: parameter integer
