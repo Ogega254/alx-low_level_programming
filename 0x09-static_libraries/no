@@ -1,0 +1,5 @@
+Loading /etc/emacs/site-start.d/00debian.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+(No changes need to be saved)
+funcall-interactively: End of buffer [4 times]
+command-execute: Buffer is read-only: #<buffer *Messages*>
