@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "main.h"
+=======
+
+>>>>>>> refs/remotes/origin/main
 /**
  *_isupper - return for uppercase
  *@c: parameter integer
